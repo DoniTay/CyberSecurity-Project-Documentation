@@ -9,7 +9,7 @@ Analyzing DNS (Domain Name System)
 Purpose of DNS: Resolving domain names to IP addresses.
 Capturing DNS traffic:
 Use the filter: dns.
-Perform a simple task: visit a website in your browser.
+Perform a simple task: visit a website in browser.
 Key Wireshark fields:
 Query Type (A, AAAA, CNAME, etc.).
 Transaction ID and response times.
